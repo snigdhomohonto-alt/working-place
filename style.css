@@ -1,0 +1,63 @@
+body{
+  background-color: blanchedalmond;
+}
+header{
+  background-color: aqua;
+  display: block;
+  padding: 10px;
+  margin: -8px -8px -8px -8px;
+  
+}
+
+
+ .box ,.box1 ,.box2 ,.box3 ,.box4 {
+  margin: 10px;
+font-size: 20px; 
+color: brown; 
+
+
+  display: inline;
+}
+.box5,.box6{
+  display: inline;
+
+}
+.gap{
+  text-align: right;
+  margin: 10px;
+  font-size: 30px;
+  border: 3px dotted solid black;
+}
+.work{
+  text-align: center;
+}
+/* .frut,.food,.emojo,.flower{
+  display: inline;
+
+} */
+ .main{
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+ }
+
+section{
+  width: 20%;
+  background-color: pink;
+  padding: 0%;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+table , th, td{
+  border: 2px solid red;
+  border-collapse: collapse;
+  width: 50px;
+  border-width: 3px;
+  /* padding-left: 100px; */
+  margin-left: 40%;
+
+}
+h1{
+    text-align: center;
+}
